@@ -3,4 +3,29 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="trans_white">#DDFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="black_99">#b2000000</color>
+    <color name="red">#FFFF0000</color>
+    <color name="gray">#FF999999</color>
+    <color name="common_button_blue">#4E96F3</color>
+    <color name="connect_blue">#FF007AE3</color>
+    <color name="common_gray">#ff777777</color>
+    <color name="gray_666">#FF666666</color>
+    <color name="gray_333">#FF333333</color>
+    <color name="common_front_black">#333333</color>
+    <color name="common_front_green">#07AD1F</color>
+
+
+    <color name="btn_selected_bg_color">#FFE02200</color>
+    <color name="btn_unselected_bg_color">#77E02200</color>
+    <color name="order_code_color">#E02200</color>
+
+    <color name="out_time_red">#DF2000</color>
+    <color name="out_time_orange">#FF7700</color>
+    <color name="out_time_yellow">#FFDD00</color>
+    <color name="out_time_normal">#e1e0e0</color>
+    <color name="common_front_gery">#999999</color>
 </resources>
